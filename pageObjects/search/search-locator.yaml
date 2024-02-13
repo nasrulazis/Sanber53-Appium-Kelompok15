@@ -1,0 +1,14 @@
+
+search_btn_homepage: '//android.widget.Button[@resource-id="com.example.myapplication:id/button6" and @text="Search"]'
+search_btn: '//android.widget.Button[@resource-id="com.example.myapplication:id/search_flight"]'
+search_btn_page: '//android.widget.Button[@resource-id="com.example.myapplication:id/searchFlight"]'
+input_search_form: '//android.widget.EditText[@resource-id="com.example.myapplication:id/flight_number"]'
+
+
+# Text
+page_search_flight: 'Enter Flight Number'
+valid_flight_number: 'DA935'
+invalid_flight_number: 'ZA123'
+blank_flight_number: ''
+page_flight_destination: 'DA 935'
+message_error: 'Please enter valid Flight Number'
