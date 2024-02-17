@@ -1,0 +1,11 @@
+username_input: //android.widget.EditText[@resource-id="com.example.myapplication:id/username"]
+password_input: //android.widget.EditText[@resource-id="com.example.myapplication:id/password"]
+signin_btn_login: //android.widget.Button[@resource-id="com.example.myapplication:id/signIn"]
+login_error_message: Invalid username/password
+login_success: //android.widget.Button[@resource-id="com.example.myapplication:id/login"]
+
+#Login
+valid_username: support@ngendigital.com
+valid_password: abc123
+invalid_username: support@ngendigital
+invalid_password: qwe123

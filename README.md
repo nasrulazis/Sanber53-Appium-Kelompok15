@@ -4,12 +4,12 @@
 
 This repository contains the Appium and Robot Framework test suite for the Sanber53 project, developed by Kelompok15.
 - Muhammad Fikri Fadillah (fadillahfikri48@gmail.com) => Search Flight Number
-- Nurul Azdnan (nurul.azdnan@gmail.com) => 
+- Nurul Azdnan (nurul.azdnan@gmail.com) => Login
 - Mohammad Nasrul Azis (mohammadnasrulazis@gmail.com) => 
 - Muhammad Refri Ansyari (refriansyari@gmail.com) => 
 
 Link Videos:
-- Login:
+- Login: https://drive.google.com/file/d/1LSDnm0Qdj3aWYhRURDcY3p3vwwRT82Sz/view?usp=sharing
 - Book Flight (One Way):
 - Book Flight (Round Trip):
 - Search Flight Number: https://drive.google.com/file/d/1j6FCke4YfxtnuNAlKfTsKjd0YGN59A-E/view?usp=sharing
