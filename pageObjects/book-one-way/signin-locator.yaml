@@ -1,0 +1,9 @@
+signin_btn: '//android.widget.Button[@resource-id="com.example.myapplication:id/login"]'
+signin_btn_submit: '//android.widget.Button[@resource-id="com.example.myapplication:id/signIn"]'
+field_username: '//android.widget.EditText[@resource-id="com.example.myapplication:id/username"]'
+field_password: '//android.widget.EditText[@resource-id="com.example.myapplication:id/password"]'
+
+# Credentials
+username: 'support@ngendigital.com'
+password: 'abc123'
+
