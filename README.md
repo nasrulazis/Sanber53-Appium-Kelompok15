@@ -6,11 +6,11 @@ This repository contains the Appium and Robot Framework test suite for the Sanbe
 - Muhammad Fikri Fadillah (fadillahfikri48@gmail.com) => Search Flight Number
 - Nurul Azdnan (nurul.azdnan@gmail.com) => Login
 - Mohammad Nasrul Azis (mohammadnasrulazis@gmail.com) => 
-- Muhammad Refri Ansyari (refriansyari@gmail.com) => 
+- Muhammad Refri Ansyari (refriansyari@gmail.com) => Book (One Way)
 
 Link Videos:
 - Login: https://drive.google.com/file/d/1LSDnm0Qdj3aWYhRURDcY3p3vwwRT82Sz/view?usp=sharing
-- Book Flight (One Way):
+- Book Flight (One Way): https://drive.google.com/file/d/1Af-McUQj3ReIZ23HrbZ2LkZP9k5wW88j/view?usp=sharing
 - Book Flight (Round Trip):
 - Search Flight Number: https://drive.google.com/file/d/1j6FCke4YfxtnuNAlKfTsKjd0YGN59A-E/view?usp=sharing
 
